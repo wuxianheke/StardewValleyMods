@@ -1,1 +1,1 @@
-init
+使用mods时，需先根据系统运行installer
