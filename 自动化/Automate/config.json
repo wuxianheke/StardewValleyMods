@@ -1,0 +1,15 @@
+{
+  "Enabled": true,
+  "AutomationInterval": 60,
+  "Controls": {
+    "ToggleOverlay": "U"
+  },
+  "ConnectorNames": [
+    "Workbench"
+  ],
+  "JunimoHutBehaviorForGems": "AutoDetect",
+  "JunimoHutBehaviorForFertilizer": "AutoDetect",
+  "JunimoHutBehaviorForSeeds": "AutoDetect",
+  "WarnForMissingBridgeMod": true,
+  "MachineOverrides": {}
+}
