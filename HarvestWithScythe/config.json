@@ -1,0 +1,10 @@
+{
+  "HarvestWithSword": true,
+  "HarvestMode": {
+    "Flowers": "BOTH",
+    "Forage": "BOTH",
+    "SpringOnion": "BOTH",
+    "PluckableCrops": "BOTH",
+    "ScythableCrops": "SCYTHE"
+  }
+}
